@@ -28,6 +28,7 @@ scipy
 bash
 Copy
 Edit
+
 pip install opencv-python imutils dlib pygame scipy
 Note: You need to install CMake and Visual Studio Build Tools for compiling dlib on Windows.
 
